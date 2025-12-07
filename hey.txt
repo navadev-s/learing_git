@@ -1,1 +1,6 @@
 hey, i am trying out various commands on git
+git init
+git add .
+git commit -m "<message>"
+git status
+git log 
